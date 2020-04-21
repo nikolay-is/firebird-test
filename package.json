@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "encoding": "^0.1.12",
+    "iconv": "^2.3.5",
     "node-firebird": "^0.8.9",
+    "utf8": "^3.0.0",
     "windows-1251": "^1.0.0"
   }
 }
